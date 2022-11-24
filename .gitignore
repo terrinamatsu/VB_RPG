@@ -1,2 +1,4 @@
-testofgamemodebattletest/obj/debug/*
-testofgamemodebattletest/bin/Debug/*
+obj/debug/*
+bin/Debug/*
+bin/debug/*
+obj/Debug/*
